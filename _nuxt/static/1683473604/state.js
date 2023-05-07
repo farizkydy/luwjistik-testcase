@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fluwjistik-testcase\u002F_nuxt\u002Fstatic\u002F1683473604",layout:"default",error:a,state:{signin:{}},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fluwjistik-testcase\u002F",assetsPath:"\u002Fluwjistik-testcase\u002F_nuxt\u002F",cdnURL:a}}}}(null));
