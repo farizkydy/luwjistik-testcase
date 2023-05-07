@@ -25,6 +25,7 @@
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.12.3",
     "eslint-config-prettier": "^8.3.0",
+    "gh-pages": "^5.0.0",
     "prettier": "^2.5.1"
   }
 }
